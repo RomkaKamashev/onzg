@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --text-color: white;
+  --alternative-text-color: black;
+  --background-color: #789461;
+  --alternative-background-color: #dbe7c9;
+
+  --button-color: #white;
+  --alternative-button-color: #dbe7c9;
+  --button-text-color: #789461;
+  --alternative-button-text-color: black;
+
+  scroll-behavior: smooth;
+  font-family: "Roboto", sans-serif;
+  color: var(--text-color);
+}
