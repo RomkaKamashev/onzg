@@ -14,5 +14,5 @@ jobs:
         server: ftp.onzg.1gb.ua
         username: ${{ secrets.FTPUSERNAME }}
         password: ${{ secrets.FTPPASSWORD }}
-        protocol: ftps
+        protocol: ftp
         server-dir: http/onzg/
