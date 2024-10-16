@@ -15,4 +15,4 @@ jobs:
         username: ${{ secrets.FTPUSERNAME }}
         password: ${{ secrets.FTPPASSWORD }}
         protocol: ftps
-        server-dir: https/onzg/
+        server-dir: http/onzg/
